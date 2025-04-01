@@ -7,7 +7,7 @@
 #include <arpa/inet.h>
 #include <time.h>
 
-#define MAX_THREADS 900
+#define MAX_THREADS 999
 #define PAYLOAD_SIZE 9999 
 
 // Expiry date (Format: YYYY-MM-DD)
